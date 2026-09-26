@@ -3,3 +3,4 @@ release-gate source=jorge2610g/yummy-profesionales staging=740b1129579c6d2e3f345
 release-gate-fix source=jorge2610g/yummy-profesionales staging=e7041c480152fe9ae67c4e58ef144fa9496e7f2f 2026-09-26T19:55Z
 protection-gate source-sha=62c6773eadb5fd76e2ee6c22a8d77b84c5c95dd8
 final-guard-sync source-sha=b065655df40aefe5c8fb999eb86744b1f8cf5650
+route-fix-source=8abb8f53de2975d33ef25205e2e9e1d9fbfc5fc1
